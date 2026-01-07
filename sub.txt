@@ -18,6 +18,5 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.97.71:34045?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 hysteria://208.87.243.151:38845?auth=dongtaiwang.com&upmbps=100&downmbps=100&security=tls&sni=www.bing.com&allowInsecure=true&alpn=h3#%F0%9F%9B%8E%EF%B8%8F80@oneclickvpnkeys
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@shops.myshopify.com:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&allowInsecure=true&fp=chrome&type=ws&host=sni.111000.dynv6.net&path=/&max_early_data=2560&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%A6%20Canada
-hysteria://208.87.243.151:38845?auth=dongtaiwang.com&upmbps=100&downmbps=100&security=tls&sni=www.bing.com&allowInsecure=true&alpn=h3#%F0%9F%9B%8E%EF%B8%8F80@oneclickvpnkeys
 
 
